@@ -2,6 +2,7 @@
 
 ##Description of Project
 The user goes to the n11 home page and searches for 'telefon'. When user sorts by top comments and chooses free shipping filter.
+
 This project used Cucumber, Selenium and JUnit and Take into consideration BDD
 
 ##How to run test case? 
